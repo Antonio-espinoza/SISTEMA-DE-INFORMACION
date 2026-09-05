@@ -1,1 +1,1 @@
-
+hola profesorsito aca se documenta el codigo que he usado para crear la pagina web conectada a la base de datos de tecnostock 
